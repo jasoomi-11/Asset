@@ -1,0 +1,316 @@
+[
+  {
+    "title": "3 Dash",
+    "category": " Game",
+    "description": "Test your reflexes in this fast-paced geometric platformer filled with obstacles and rhythm-based challenges.",
+    "url": "games/3-dash.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/3-dash.png"
+  },
+  {
+    "title": "Brawl Stars Brave Adventure",
+    "category": "Game",
+    "description": "Join the ultimate arena battle, unlock heroes, and conquer opponents in thrilling multiplayer fights.",
+    "url": "games/brawl-stars-brave-adventure.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/brawlstars.png"
+  },
+  {
+    "title": "Bubble Shooter Temple",
+    "category": "Game",
+    "description": "Pop bubbles and solve puzzles in this relaxing yet challenging temple-themed bubble shooter adventure.",
+    "url": "games/bubble-shooter-temple.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/bubble-shooter-temple-jewels.png"
+  },
+  {
+    "title": "Italian Brainrot Baby Clicker",
+    "category": "Game",
+    "description": "A fun and weird clicker game where you upgrade your baby empire with every tap. Pure brainrot entertainment!",
+    "url": "games/italian-brainrot-baby-clicker.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/italian-brainrot-baby-clicker.png"
+  },
+  {
+    "title": "Monster Dash",
+    "category": "Game",
+    "description": "Run, jump, and blast through monsters in this endless arcade adventure filled with power-ups and fun weapons.",
+    "url": "games/monster-dash.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/monster-dash.png"
+  },
+  {
+    "title": "See Lord",
+    "category": "Game",
+    "description": "A mysterious fantasy adventure where you explore mystical lands and uncover ancient secrets of the sea lord.",
+    "url": "games/see-lord.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/see-lord.png"
+  },
+  {
+    "title": "Tropical Match 2",
+    "category": "Game",
+    "description": "Match colorful fruits and flowers in this tropical paradise puzzle sequel packed with fun challenges.",
+    "url": "games/tropical-match-2.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/tropical-match-2.png"
+  },
+  {
+    "title": "Twilight Solitaire",
+    "category": "Game",
+    "description": "Classic solitaire gameplay reimagined with a stunning twilight theme and smooth animations.",
+    "url": "games/twilight-solitaire.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/twilight.png"
+  },
+  {
+    "title": "Two Stunt Racers",
+    "category": "Game",
+    "description": "Race against your friend or AI in this high-speed stunt game with flips, ramps, and crazy car physics.",
+    "url": "games/two-stunt-racers.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/two-stunt-racers.png"
+  },
+  {
+    "title": "Unstack Tower",
+    "category": "Game",
+    "description": "A minimal puzzle game where timing and precision are key — unstack blocks perfectly to win.",
+    "url": "games/unstack-tower.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/unstack-tower.png"
+  },
+  {
+    "title": "Word Seasons",
+    "category": "Game",
+    "description": "Test your vocabulary skills in a relaxing seasonal word puzzle experience with beautiful backgrounds.",
+    "url": "games/word-seasons.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/word-seasons-thumb.png"
+  },
+  {
+    "title": "Zero to Millionaire",
+    "category": "Game",
+    "description": "Start from nothing and build your empire in this clicker-style business simulation game.",
+    "url": "games/zero-to-millionaire.html",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/Zero.png"
+  },
+  
+  
+  
+  {
+    "title": "A Working Man",
+    "category": "Movie",
+    "subcategory": "Action",
+    "description": "A global action thriller following a man who uncovers an international conspiracy while trying to survive in a world of deception.",
+    "url": "https://blueverse.com/movies/action/A-working-man.html",
+    "image": "https://cdn.blueverse.com/images/movies/a-working-man.jpg"
+  },
+  {
+    "title": "Baghi 4",
+    "category": "Movie",
+    "subcategory": "Action",
+    "description": "The next chapter in the high-octane Baghi franchise — relentless action, courage, and revenge at its peak.",
+    "url": "https://blueverse.com/movies/action/baghi-4.html",
+    "image": "https://cdn.blueverse.com/images/movies/baghi-4.jpg"
+  },
+  {
+    "title": "Nobody 2",
+    "category": "Movie",
+    "subcategory": "Action",
+    "description": "The ex-assassin returns in an explosive sequel filled with sharp wit, intense combat, and pure chaos.",
+    "url": "https://blueverse.com/movies/action/nobody-2.html",
+    "image": "https://cdn.blueverse.com/images/movies/nobody-2.jpg"
+  },
+  {
+    "title": "Predator Killer of Killers",
+    "category": "Movie",
+    "subcategory": "Action",
+    "description": "An elite force faces the deadliest predator in the universe in this adrenaline-pumping sci-fi action spectacle.",
+    "url": "https://blueverse.com/movies/action/predator-killerofkillers.html",
+    "image": "https://cdn.blueverse.com/images/movies/predator-killerofkillers.jpg"
+  },
+  {
+    "title": "Trons Ares",
+    "category": "Movie",
+    "subcategory": "Action",
+    "description": "A cyberwar begins as humans and programs clash for digital freedom in this electrifying sequel to the Tron saga.",
+    "url": "https://blueverse.com/movies/action/trons-ares.html",
+    "image": "https://cdn.blueverse.com/images/movies/trons-ares.jpg"
+  },
+  {
+    "title": "Ballerina 2025",
+    "category": "Movie",
+    "subcategory": "Released",
+    "description": "A female assassin seeks revenge in this thrilling action-packed spin-off set in the John Wick universe.",
+    "url": "https://blueverse.com/movies/released/ballerina-2025.html",
+    "image": "https://cdn.blueverse.com/images/movies/ballerina-2025.jpg"
+  },
+  {
+    "title": "Deva",
+    "category": "Movie",
+    "subcategory": "Released",
+    "description": "An emotional drama and action-packed journey of a man torn between duty, love, and vengeance.",
+    "url": "https://blueverse.com/movies/released/deva.html",
+    "image": "https://cdn.blueverse.com/images/movies/deva.jpg"
+  },
+  {
+    "title": "Mission Impossible Final Reckoning",
+    "category": "Movie",
+    "subcategory": "Released",
+    "description": "Ethan Hunt returns for his final mission — facing the ultimate betrayal and impossible odds.",
+    "url": "https://blueverse.com/movies/released/MI-final-reckoning.html",
+    "image": "https://cdn.blueverse.com/images/movies/MI-final-reckoning.jpg"
+  },
+  {
+    "title": "Mickey 17",
+    "category": "Movie",
+    "subcategory": "Released",
+    "description": "A sci-fi mystery about a man who keeps being regenerated to serve a mission that may destroy humanity.",
+    "url": "https://blueverse.com/movies/released/mickey17.html",
+    "image": "https://cdn.blueverse.com/images/movies/mickey17.jpg"
+  },
+  {
+    "title": "War 2",
+    "category": "Movie",
+    "subcategory": "Released",
+    "description": "Two secret agents clash in a high-voltage showdown of power, patriotism, and betrayal in this Bollywood action thriller.",
+    "url": "https://blueverse.com/movies/released/war2.html",
+    "image": "https://cdn.blueverse.com/images/movies/war2.jpg"
+  },
+  
+    {
+      "title": "About - Blueverse",
+      "url": "/about.html",
+      "description": "Learn about Blueverse — your universe for games, blogs, movies, and more."
+    },
+    {
+      "title": "Blog - Blueverse",
+      "url": "/blog.html",
+      "description": "Explore entertainment blogs, guides, and trending updates from Blueverse."
+    },
+    {
+      "title": "Contact - Blueverse",
+      "url": "/contact.html",
+      "description": "Contact the Blueverse team for help, feedback, or collaboration."
+    },
+    {
+      "title": "Games - Blueverse",
+      "url": "/games.html",
+      "description": "Play and discover the best free and online games on Blueverse."
+    },
+    {
+      "title": "Home - Blueverse",
+      "url": "/index.html",
+      "description": "Welcome to Blueverse — your all-in-one hub for movies, games, and blogs."
+    },
+    
+  
+    {
+      "title": "Products - Blueverse",
+      "url": "/products.html",
+      "description": "Explore Blueverse digital tools, software, and entertainment products."
+    },
+    {
+      "title": "Shop - Blueverse",
+      "url": "/shop.html",
+      "description": "Shop for exclusive digital items, accessories, and entertainment products."
+    },
+    {
+      "title": "Terms & Conditions",
+      "url": "/terms.html",
+      "description": "Understand the terms and conditions for using Blueverse services."
+    },
+    
+    {
+      "title": "Test Page",
+      "url": "/tesst.html",
+      "description": "Additional test page for internal Blueverse experiments."
+    },
+    {
+      "title": "Top Games - Blueverse",
+      "url": "/topgame.html",
+      "description": "Check out the most popular and trending games on Blueverse."
+    },
+  
+
+    {
+      "title": "Call of Duty Mobile",
+      "url": "/games/callofdutymobile.html",
+      "image": "https://cdn.yoursite.com/images/callofduty-mobile.jpg",
+      "description": "Fast-paced FPS action on mobile. Join the battle in Call of Duty Mobile with multiplayer and battle royale modes."
+    },
+    {
+      "title": "Clash of Clans",
+      "url": "/games/clashofclans.html",
+      "image": "https://cdn.yoursite.com/images/clashofclans.jpg",
+      "description": "Build your village, train your army, and fight epic clan wars in this classic mobile strategy game."
+    },
+    {
+      "title": "Clash Royale",
+      "url": "/games/clashroyal.html",
+      "image": "https://cdn.yoursite.com/images/clashroyale.jpg",
+      "description": "Real-time multiplayer battle game featuring your favorite Clash characters in a strategic card format."
+    },
+    {
+      "title": "Free Fire Max",
+      "url": "/games/freefiremax.html",
+      "image": "https://cdn.yoursite.com/images/freefiremax.jpg",
+      "description": "Experience battle royale with enhanced graphics and intense 10-minute survival gameplay in Free Fire Max."
+    },
+    {
+      "title": "Genshin Impact",
+      "url": "/games/genshineimpact.html",
+      "image": "https://cdn.yoursite.com/images/genshin-impact.jpg",
+      "description": "Explore Teyvat — a breathtaking open world filled with adventure, mystery, and elemental combat."
+    },
+    {
+      "title": "Mobile Legends",
+      "url": "/games/mobilelegend.html",
+      "image": "https://cdn.yoursite.com/images/mobile-legends.jpg",
+      "description": "Join 5v5 real-time MOBA action. Choose your hero and battle to victory in Mobile Legends: Bang Bang."
+    },
+    {
+      "title": "PUBG Mobile",
+      "url": "/games/pubgmobile.html",
+      "image": "https://cdn.yoursite.com/images/pubg-mobile.jpg",
+      "description": "Jump into intense battle royale matches and fight to be the last survivor in PUBG Mobile."
+    },
+    {
+      "title": "Apex Legends",
+      "url": "/games/toppcgames/Top5onlinegames/apex-legend.html",
+      "image": "https://cdn.yoursite.com/images/apex-legends.jpg",
+      "description": "Fast, fluid, and tactical. Choose your legend and fight your way to victory in Apex Legends."
+    },
+    {
+      "title": "COD Warzone",
+      "url": "/games/toppcgames/Top5onlinegames/COD-warzone.html",
+      "image": "https://cdn.yoursite.com/images/warzone.jpg",
+      "description": "Call of Duty Warzone delivers massive battle royale combat with tactical gameplay and high-end action."
+    },
+    {
+      "title": "Fortnite",
+      "url": "/games/toppcgames/Top5onlinegames/Fortnite.html",
+      "image": "https://cdn.yoursite.com/images/fortnite.jpg",
+      "description": "The world’s most popular battle royale with creative building and fun multiplayer action."
+    },
+    {
+      "title": "Minecraft",
+      "url": "/games/toppcgames/Top5onlinegames/Minecraft.html",
+      "image": "https://cdn.yoursite.com/images/minecraft.jpg",
+      "description": "Explore endless worlds and build anything you can imagine in the iconic sandbox game Minecraft."
+    },
+    
+    {
+      "title": "GTA 5",
+      "url": "/games/toppcgames/gta5.html",
+      "image": "https://cdn.yoursite.com/images/gta5.jpg",
+      "description": "Experience crime, chaos, and freedom in Los Santos — one of the best open-world games ever made."
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "/games/toppcgames/reddeadredemption.html",
+      "image": "https://cdn.yoursite.com/images/red-dead-redemption2.jpg",
+      "description": "Live the life of an outlaw in this cinematic western adventure by Rockstar Games."
+    },
+    {
+      "title": "Valorant",
+      "url": "/games/toppcgames/valorant.html",
+      "image": "https://cdn.yoursite.com/images/valorant.jpg",
+      "description": "Team-based tactical shooter by Riot Games featuring precision, strategy, and fast-paced action."
+    }
+  
+
+  
+  
+  
+  
+]
